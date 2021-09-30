@@ -1,0 +1,4 @@
+server-1/node_modules
+server-2/node_modules
+.editor
+.vscode
